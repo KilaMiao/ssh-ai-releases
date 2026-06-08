@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except these
+!.gitignore
+!out/
+!out/make/
+!out/make/squirrel.windows/
+!out/make/squirrel.windows/x64/
+!out/make/squirrel.windows/x64/*
